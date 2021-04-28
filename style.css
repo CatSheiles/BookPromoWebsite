@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Noto Serif', serif;
+    height: 100;
+    margin: 0;
+    text-align: center;
+    width: 100%;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+h2 {
+    color: #ffffff;
+    font-size: 85px;
+    font-weight: bold;
+}
+
+
+
+/*divs etc*/
+
+.hero {
+    background-image: url("./herbs.jpg");
+    background-position: centre top;
+    background-size: cover;
+    padding: 250px 0;
+    margin: 30px;
+    text-shadow: 2px 4px 2px #000000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p {
+    color: #ffffff;
+    font-size: 36px;
+}
+
+.hero a {
+    color: #009664;
+    font-size: 36px;
+    text-decoration: none;
+}
+
+#footer {
+    color: darkgray;
+    font-size: 12px;
+}
+
